@@ -1,4 +1,6 @@
-Проект новой платы для Автозапуска двигателя автомобиля с настройками через веб интерфейс
+Анатомия автозапуска 6.0 
+
+Проект новой платы для двигателя автомобиля с настройками через веб интерфейс
 
 ![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Esp32-Sim800-Web-6.0.jpg)
 
@@ -22,6 +24,16 @@
 
 -с обратной стороны DC-DC преобразователь и разъем для SIM-карты.
 
+Скрины
 
+![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Screen1.jpg)
+![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Screen2.jpg)
+![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Screen3.jpg)
+
+
+Загрузка прошивки
 
 ![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Esp32-ESPFlashDownloadTool.JPG)
+
+
+https://www.drive2.ru/c/510132164675764252/
