@@ -30,6 +30,9 @@
 ![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Screen2.jpg)
 ![](https://github.com/martinhol221/ESP32-SIM800-WEB/blob/master/Screen3.jpg)
 
+SSID: demo
+PASS: 12345678
+
 
 Загрузка прошивки
 
