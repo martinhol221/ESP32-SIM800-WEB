@@ -20,7 +20,7 @@ unsigned long period = 0;
 
 
 void setup() {
-Wire.begin(14,26);  // (SDA,SCL)
+// Wire.begin(14,26);  // (SDA,SCL)
 Serial.begin(230400),Serial.println(), Serial.println("ESP32-Arduino-CAN_Paj7620");
 SerialBT.begin("Citroen CAN Brige"); delay(5000); SerialBT.println("ESP32-CAN-Paj7620");
 CAN_cfg.speed = CAN_SPEED_125KBPS;
